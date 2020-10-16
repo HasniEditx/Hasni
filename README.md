@@ -10,9 +10,9 @@
 
 5. pkg install git
 
-6. git clone https://github.com/HasniEditx/HasniEditx
+6. git clone https://github.com/hasnieditx
 
 
-7. cd Hasni
+7. cd hasni
  
-8. Python2 Hasni.py
+8. Python2 hasni.py
