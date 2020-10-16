@@ -1,4 +1,4 @@
-#!/usr/bin/python2
+#!/usr/hasni/python2
 #coding=utf-8
 
 
@@ -80,10 +80,10 @@ logo = """ ▄︻┻═┳一 ЩєLc๏Mє ┼๏ ┼ђє Fąş┼єş┼ єVєr
           ♥️♥️♥️ ßєş┼ ๏F LЦcK  ♥️♥️♥️
                    ♥️♥️   ♥️♥️
 \033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;92Hasni Editx
-\033[1;96mInstagram \033[1;93m: \033[1:itx Hasni_Editx
-\033[1;96mFacebook  \033[1;93m: \033[1:https:///hasni.editx
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/HasniEditx/HasniEditx
+\033[1;96mAuthor  hasni editx
+\033[1;96mInstagram Hasni_Editx
+\033[1;96mFacebook  https://hasni.editx
+\033[1;96mGithub https://github.com/hasnieditx
 \033[1;91m======================================="""
 
 def tik():
@@ -125,10 +125,11 @@ print  """\033[1;91m
                      ▇▇▇◣╲▇╱◢▇▇▇
                      ▇▇▇▇◣▇◢▇▇▇▇
                    WhatsApp : +447517701116
-\033[1;96mAuthor  \033[1;93m: \033[1;92Hasni Editx
-\033[1;96mInstagram \033[1;93m: \033[1;92 Hasni Editx
-\033[1;96mFacebook  \033[1;93m: \033[1;92 /hasni.editx
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/HasniEditx/HasniEditx
+
+\033[1;96mAuthor hasni editx
+\033[1;96mInstagram hasni editx
+\033[1;96mFacebook  hasni.editx
+\033[1;96mGithub https://github.com/hasnieditx
 \033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
 
