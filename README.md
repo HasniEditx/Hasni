@@ -10,7 +10,7 @@
 
 5. pkg install git
 
-6. git clone https://github.com/hasnieditx
+6. git clone https://github.com/hasnieditx/hasni
 
 
 7. cd hasni
