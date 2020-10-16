@@ -83,7 +83,7 @@ logo = """ ▄︻┻═┳一 ЩєLc๏Mє ┼๏ ┼ђє Fąş┼єş┼ єVєr
 \033[1;96mAuthor  hasni editx
 \033[1;96mInstagram Hasni_Editx
 \033[1;96mFacebook  https://hasni.editx
-\033[1;96mGithub https://github.com/hasnieditx
+\033[1;96mGithub https://github.com/hasnieditx/hasni
 \033[1;91m======================================="""
 
 def tik():
@@ -129,7 +129,7 @@ print  """\033[1;91m
 \033[1;96mAuthor hasni editx
 \033[1;96mInstagram hasni editx
 \033[1;96mFacebook  hasni.editx
-\033[1;96mGithub https://github.com/hasnieditx
+\033[1;96mGithub https://github.com/hasnieditx/hasni
 \033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
 
